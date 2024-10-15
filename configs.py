@@ -16,7 +16,7 @@ class Config(object):
     
     
     
-🤖 My Name: <a href='https://youtube.com/@GreyMattersBot'>Link Search Bot</a>
+🤖 My Name: <a href='https://youtube.com/@asexplanation-qr7ld?si=ekk_FMy94uhztqOx'>Link Search Bot</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
